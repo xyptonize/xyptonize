@@ -12,7 +12,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=xyptonize&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 </a>
- <script src="https://tryhackme.com/badge/226246"></script>
+ <img src="https://tryhackme.com/badge/226246"></>
 
 
 <h3><b><i>🏆 My Profile View :</i></b></h3>
