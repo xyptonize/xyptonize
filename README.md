@@ -1,1 +1,1 @@
-<h2><b>Xyptonize Here!👋</b></h2>
+<h2><b>There is nothing interesting here!</b></h2>
